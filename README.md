@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Abdur Rozaq Fakhruddin</h1>
 <h3 align="center">A passionate Front-end Developer & Mobile Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="left">Statistic</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrozaqf&show_icons=true&locale=en&layout=compact" alt="abdurrozaqf" /></p>
