@@ -1,23 +1,7 @@
-<!--### Hi there 👋
-
-
-**abdurrozaqf/abdurrozaqf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Abdur Rozaq Fakhruddin</h1>
 <h3 align="center">A passionate Front-end Developer & Mobile Developer</h3>
 
-<h3 align="left">Statistic</h3>
+My Education and work experiences shaped in Technology. I've also put my interest in developer, so i'am beginning to write my experience there, kindly check out my first aplication develop sinau-apps. I believe those skills bring value to my next approaching career as a Front End Developer. Currently, i'am looking for an opportunity to thrive on what i've learned in the program.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrozaqf&show_icons=true&locale=en&layout=compact" alt="abdurrozaqf" /></p>
+### Statistic
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrozaqf&layout=compact&theme=react&hide=php&langs_count=6" alt="abdurrozaqf" />
