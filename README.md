@@ -3,7 +3,7 @@ My Education and experiences shaped in Technology. I've interest in developer, s
 [![](https://visitcount.itsvg.in/api?id=abdurrozaqf&icon=6&color=1)](https://visitcount.itsvg.in)
 
 ## Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrozaqf) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrozaqfakhruddin) 
 
 ## Tech Stacks
 <div align="center">
