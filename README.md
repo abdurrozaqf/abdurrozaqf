@@ -28,5 +28,5 @@ My Education and experiences shaped in Technology. I've interest in developer, s
 </div>
 
 ### GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdurrozaqf&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/abdurrozaqf)</br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrozaqf&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</br>
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdurrozaqf&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/abdurrozaqf)</br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrozaqf&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</br> -->
